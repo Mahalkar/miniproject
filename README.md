@@ -1,1 +1,1 @@
-Simple Computer Graphics program using c in turbo c
+Simple Computer Graphics program using C language in turbo c
